@@ -11,7 +11,7 @@ It is very important, reduces complexity from O(N^3) to O(N)
 
 Detailed descritpion of my program is in polish language in the comments.
 
-This is one of the programs written by me from numerical methods.
+This is one of the programs written by me for numerical methods.
 
 ## Authors
 
